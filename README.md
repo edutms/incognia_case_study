@@ -1,1 +1,3 @@
-# incognia_case_study
+# Incognia case
+
+Following is the Incognia case assessment.
